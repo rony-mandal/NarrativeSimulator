@@ -1,0 +1,7 @@
+mesa
+sentence-transformers
+nltk
+streamlit
+plotly
+numpy
+pandas
